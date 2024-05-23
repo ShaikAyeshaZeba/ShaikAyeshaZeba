@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shaik Ayesha Zeba</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" />
-</p>
 
 - 🌱 I’m currently learning **Artificial Intelligence Courses**
 
 - 📫 How to reach me **ayeshazebashaik2004@gmail.com**
+
+<p align="center">
+  <img src="" alt="Profile Picture" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shaikayeshazeba&label=Profile%20views&color=0e75b6&style=flat" alt="shaikayeshazeba" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikayeshazeba&show_icons=true&locale=en" alt="shaikayeshazeba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikayeshazeba&" alt="shaikayeshazeba" /></p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaikayeshazeba&label=Profile%20views&color=0e75b6&style=flat" alt="shaikayeshazeba" />
-</p>
