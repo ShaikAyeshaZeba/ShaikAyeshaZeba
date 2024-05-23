@@ -6,7 +6,7 @@
 - 📫 How to reach me **ayeshazebashaik2004@gmail.com**
 
 <p align="center">
-  <img src="" alt="Profile Picture" />
+  <img src="https://ibb.co/dtr7VsR" alt="Profile Picture" />
 </p>
 
 <p align="left">
